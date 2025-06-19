@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Tickers Bar Logo](public/icon/128.png)
+![Tickers Bar Logo](https://lh3.googleusercontent.com/R0p5U0QQZ-Lf53h4N-eL3YXq2_gm1RT8DWBXgPAtqx4bNriDhwhjSX98ueQswx7BHvunVY9RljLB3-80wzWAy3EPNd4=s1280-w1280-h800)
 
 **实时币价，触手可及。再也不错过任何市场行情。**
 
@@ -10,7 +10,7 @@
 [![实时更新](https://img.shields.io/badge/更新-实时-blue)](https://tickersbar.com)
 [![免费使用](https://img.shields.io/badge/价格-免费版本-success)](https://tickersbar.com)
 
-[🌐 访问官网](https://tickersbar.com) • [📧 联系我们](mailto:contact@tickersbar.com) • [💬 技术支持](https://tickersbar.com/support)
+[🌐 访问官网](https://tickersbar.com) • [📧 联系我们](mailto:hi@tickersbar.com) • [💬 技术支持](https://tickersbar.com/support)
 
 </div>
 
