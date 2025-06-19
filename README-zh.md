@@ -138,9 +138,7 @@ Tickers Bar 是**最先进的加密货币价格追踪浏览器扩展**，专为�
 ## 📱 保持联系
 
 - **官网**：[https://tickersbar.com](https://tickersbar.com)
-- **微博**：[@TickersBar官方](https://weibo.com/tickersbar)
-- **微信群**：添加客服微信 tickersbar_service
-- **QQ群**：123456789
+- **X/Twitter**: [@tickers_bar_](https://twitter.com/tickers_bar_)
 
 ## 🚀 立即下载
 
