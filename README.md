@@ -10,7 +10,7 @@
 [![Real-time Updates](https://img.shields.io/badge/Updates-Real--time-blue)](https://tickersbar.com)
 [![Free to Use](https://img.shields.io/badge/Pricing-Free%20Tier-success)](https://tickersbar.com)
 
-[🌐 Visit Website](https://tickersbar.com) • [📧 Contact Us](mailto:contact@tickersbar.com) 
+[🌐 Visit Website](https://tickersbar.com) • [📧 Contact Us](mailto:hi@tickersbar.com) 
 </div>
 
 ## ✨ Why Choose Tickers Bar?
