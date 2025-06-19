@@ -137,9 +137,8 @@ Designed with performance and reliability at its core:
 ## 📱 Stay Connected
 
 - **Website**: [https://tickersbar.com](https://tickersbar.com)
-- **Twitter**: [@TickersBar](https://twitter.com/tickersbar)
+- **Twitter**: [@tickers_bar_](https://twitter.com/tickers_bar_)
 - **Telegram**: [t.me/tickersbar](https://t.me/tickersbar)
-- **Discord**: [discord.gg/tickersbar](https://discord.gg/tickersbar)
 
 ## 🚀 Download Now
 
