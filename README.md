@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Tickers Bar Logo](https://www.tickersbar.com/_next/image?url=%2Flogo.png&w=64&q=75)
+![Tickers Bar Logo](https://lh3.googleusercontent.com/R0p5U0QQZ-Lf53h4N-eL3YXq2_gm1RT8DWBXgPAtqx4bNriDhwhjSX98ueQswx7BHvunVY9RljLB3-80wzWAy3EPNd4=s1280-w1280-h800)
 
 **Real-time crypto prices at your fingertips. Never miss a market move again.**
 
