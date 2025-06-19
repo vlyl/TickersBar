@@ -10,7 +10,7 @@
 [![实时更新](https://img.shields.io/badge/更新-实时-blue)](https://tickersbar.com)
 [![免费使用](https://img.shields.io/badge/价格-免费版本-success)](https://tickersbar.com)
 
-[🌐 访问官网](https://tickersbar.com) • [📧 联系我们](mailto:hi@tickersbar.com) • [💬 技术支持](https://tickersbar.com/support)
+[🌐 访问官网](https://tickersbar.com) • [📧 联系我们](mailto:hi@tickersbar.com) 
 
 </div>
 
